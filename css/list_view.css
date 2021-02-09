@@ -1,0 +1,52 @@
+.container {
+    background-image: linear-gradient(
+        to right bottom,
+        rgba(71, 34, 34, 0.8),
+        rgba(29, 19, 19, 0.8)
+    );
+
+    margin-top: 30px;
+    text-align: center;
+}
+
+.panel-heading {
+    color:darkgrey;
+}
+
+.panel-body {
+    color:rgb(250, 119, 119);
+}
+
+th {
+    color: rgb(250, 119, 119);
+}
+
+td {
+    color:rgb(255, 255, 255);
+}
+
+.btn {
+    margin-right: 20px;
+}
+
+.custom-submit-btn {
+    margin-bottom:10px;
+    margin-top: 10px;
+    letter-spacing:2px;
+    word-spacing:5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.custom-date {
+    font-weight: 600;
+    font-size: 15px;
+    text-align: left;
+    color: rgb(250, 119, 119);
+
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
