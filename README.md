@@ -1,6 +1,16 @@
 ﻿# student-attendance-management-system
 A student attendance management system built with HTML5, CSS3, Bootstrap4, PHP OOP, MySQL, FPDF
 
+### Features:
+* Signup 
+* Login 
+* Show course list
+* Add new user
+* Update existing user info
+* Delete a user account
+* Take attendance
+* Generate a downloadable pdf of attendance report  
+
 ### To login as an admin: 
 Email: r@ewubd.edu <br>
 Password: 123
