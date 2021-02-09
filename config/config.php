@@ -9,5 +9,5 @@
     define("DB_HOST", "db4free.net:3306");
     define("DB_USER", "rrprodhan");
     define("DB_PASS", "7hell8paradise");
-    define("DB_NAME", "rrprodhan-sams");
+    define("DB_NAME", "rrprodhan_sams");
 ?>
