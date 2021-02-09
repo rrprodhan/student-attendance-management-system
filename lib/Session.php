@@ -1,6 +1,6 @@
 <?php
     session_start();
     if(!$_SESSION['auth']) {
-        header("Location: ../login.php");
+        header("Location: ../index.php");
     }
 ?>
