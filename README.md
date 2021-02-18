@@ -1,9 +1,5 @@
 ﻿# student-attendance-management-system
-A student attendance management system built with HTML5, CSS3, Bootstrap4, PHP OOP, MySQL, FPDF. This web app is built in a way that only the Admin will be able to create a new user, so please log in with an admin account to enjoy the full privilege.
-
-### To login as an admin: 
-Email: r@ewubd.edu <br> 
-Password: 123
+A student attendance management system built with HTML5, CSS3, Bootstrap4, PHP OOP, MySQL, FPDF. This web app is built in a way that only the teacher will be able to enjoy the full privilege.
 
 ### To login as a teacher: 
 Email: as@ewubd.edu <br>
@@ -22,3 +18,13 @@ Password: 123
 * Delete a user account
 * Take attendance
 * Generate a downloadable pdf of attendance report  
+
+### Some screenshots of the web app
+#### Home Page
+![Home Page](https://github.com/rrprodhan/student-attendance-management-system/tree/main/screenshots/homepage.png?raw=true)
+#### Attendance Sheet
+![Home Page](https://github.com/rrprodhan/student-attendance-management-system/tree/main/screenshots/attendancesheet.png?raw=true)
+#### Attendance report
+![Home Page](https://github.com/rrprodhan/student-attendance-management-system/tree/main/screenshots/report.png?raw=true)
+#### Edit Profile
+![Home Page](https://github.com/rrprodhan/student-attendance-management-system/tree/main/screenshots/edit.png?raw=true)
