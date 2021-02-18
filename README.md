@@ -21,10 +21,10 @@ Password: 123
 
 ### Some screenshots of the web app
 #### Home Page
-![Home Page](https://github.com/rrprodhan/student-attendance-management-system/tree/main/screenshots/homepage.png?raw=true)
+![Home Page](screenshots/homepage.png)
 #### Attendance Sheet
-![Home Page](https://github.com/rrprodhan/student-attendance-management-system/tree/main/screenshots/attendancesheet.png?raw=true)
+![Attendance Sheet](screenshots/attendancesheet.png)
 #### Attendance report
-![Home Page](https://github.com/rrprodhan/student-attendance-management-system/tree/main/screenshots/report.png?raw=true)
+![Attendance report](screenshots/report.png)
 #### Edit Profile
-![Home Page](https://github.com/rrprodhan/student-attendance-management-system/tree/main/screenshots/edit.png?raw=true)
+![Edit Profile](screenshots/edit.png)
