@@ -26,5 +26,5 @@ Password: 123
 ![Attendance Sheet](screenshots/attendancesheet.png)
 #### Attendance report
 ![Attendance report](screenshots/report.png)
-#### Edit Profile
-![Edit Profile](screenshots/edit.png)
+#### Update Profile
+![Update Profile](screenshots/edit.png)
